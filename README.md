@@ -32,24 +32,23 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
 
-Linear Interpolation
 
+![image](https://github.com/Surekaelango/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/127727904/fd40f0c5-d955-46bb-9751-d304b9aa3742)
+![image](https://github.com/Surekaelango/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/127727904/282cc8e3-1e85-46a0-9e94-12ab3e0b63ae)
+![image](https://github.com/Surekaelango/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/127727904/5af53e4e-9916-4eed-a5fc-3746490aad05)
+![image](https://github.com/Surekaelango/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/127727904/d0e1396b-7152-4ead-aaa8-70076c5cc007)
+![image](https://github.com/Surekaelango/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/127727904/089d7782-2bb9-4619-896c-94981b8eead7)
 
+Linear interpolation:
+![image](https://github.com/Surekaelango/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/127727904/a652eee4-bf61-451b-b411-c4aad9cdef80)
 
-
-
-
-
-
-Circular Interpolation
-
-### output
-
+circular interpolation:
+![image](https://github.com/Surekaelango/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/127727904/7b249ca0-3e6b-498b-be94-acde39fd56f5)
 
 
 
 ### Results 
-
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
  
